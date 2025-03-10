@@ -18,27 +18,27 @@
     "age": 5,
     "breed": "Labrador Retriever",
     "temperament": "Affectionate, Energetic, Patient",
-    "image_url": ""
+    "image_url": "/Assets/pexels-Puppies-Max.jpg"
   },
   {
     "name": "Charlie",
     "age": 2,
     "breed": "Cocker Spaniel",
     "temperament": "Gentle, Loving, Alert",
-    "image_url": ""
+    "image_url": "/Assets/pexels-Puppies-Charlie.jpg"
   },
   {
     "name": "Lucy",
     "age": 6,
     "breed": "Bernese Mountain Dog",
     "temperament": "Calm, Patient, Affectionate",
-    "image_url": ""
+    "image_url": "/Assets/pexels-Puppies-Lucy.jpg"
   },
   {
     "name": "Daisy",
     "age": 4,
     "breed": "Cavalier King Charles Spaniel",
     "temperament": "Friendly, Quiet, Adaptable",
-    "image_url": ""
+    "image_url": "/Assets/pexels-Puppies-Daisy.jpg"
   }
 ]
