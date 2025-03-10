@@ -11,7 +11,7 @@
     "age": 3,
     "breed": "Golden Retriever",
     "temperament": "Friendly, Loyal, Playful",
-    "image_url": "https://uxbridgecollegeacuk-my.sharepoint.com/:i:/r/personal/40295713_hruc_ac_uk/Documents/HTML-CSS/HugPups/Assets/pexels-Puppies-Bella.jpg?csf=1&web=1&e=CIxjSt"
+    "image_url": "/Assets/pexels-Puppies-Bella.jpg"
   },
   {
     "name": "Max",
